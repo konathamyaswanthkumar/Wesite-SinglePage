@@ -1,0 +1,52 @@
+body
+{
+  margin: 0;
+ text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+.bg-conatiner{
+  padding: 3%;
+  background-color:	#f2f2f2;
+  min-height: 100vh;
+}
+.conactme-conatiner{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 75vw;
+}
+.main-conatiner{
+background-color:#0c5e7d;
+width: 75vw;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main-heading{
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+}
+.main-paragraph{
+color: white;
+}
+.carousel{
+  width: 100%;
+}
+.My-details{
+  color: white;
+  text-align: left;
+  list-style-type: none;
+}
+.images{
+
+}
+a:hover{
+  color: black;
+}
+.easy-navigatediv{
+  width: 75vw;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+.border p{
+    border: 1px solid #000;
+}
